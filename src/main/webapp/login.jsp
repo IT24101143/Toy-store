@@ -265,7 +265,7 @@
             <div class="register-link text-center mt-4">
                 <a href="register.jsp" style="color: var(--secondary-color); font-weight: bold; font-size: 1.1em; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
                     <i class="fas fa-user-plus" ></i>
-                    <span style="color: #3399ff">Not an admin?</span> <span style="text-decoration: underline; color: #3399ff;">Register here!</span>
+                    Not an admin?<span style="text-decoration: underline;">Register here!</span>
                 </a>
             </div>
         </div>
