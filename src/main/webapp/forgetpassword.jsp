@@ -96,7 +96,7 @@
         }
 
         .btn-back {
-            background: linear-gradient(135deg, #6c757d 0%, #868e96 100%);
+            background:  linear-gradient(135deg, #3a7bd5 0%, #00d2ff 100%);
             border: none;
             border-radius: 15px;
             padding: 12px;
