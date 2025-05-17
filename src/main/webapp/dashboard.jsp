@@ -37,7 +37,7 @@
             --accent-color: #FFE66D;
         }
         body {
-            background: white;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
             min-height: 100vh;
             font-family: 'Comic Sans MS', cursive, sans-serif;
         }
