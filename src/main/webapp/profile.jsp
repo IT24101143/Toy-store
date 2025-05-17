@@ -109,7 +109,7 @@
         </form>
         <!-- Go Back Button -->
         <div class="text-center mt-4">
-            <a href="dashboard" class="btn btn-outline-secondary" style="border-radius: 15px; font-weight: bold;">
+            <a href="dashboard" class="btn btn-outline-secondary" style="background: linear-gradient(135deg, #3a7bd5 0%, #00d2ff 100%); color: white; border: none; border-radius: 15px; font-weight: bold; padding: 12px 20px; display: inline-block; text-decoration: none;">
                 <i class="fas fa-arrow-left"></i> Go Back
             </a>
         </div>
