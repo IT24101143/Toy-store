@@ -1,0 +1,5 @@
+USER001,John Doe,john.doe@email.com,REGULAR,123 Main St, New York, NY 10001
+USER002,Jane Smith,jane.smith@email.com,VIP,456 Oak Ave, Los Angeles, CA 90001
+USER003,Bob Johnson,bob.johnson@email.com,REGULAR,789 Pine Rd, Chicago, IL 60001
+USER004,Alice Brown,alice.brown@email.com,VIP,321 Elm St, Miami, FL 33101
+USER005,Charlie Wilson,charlie.wilson@email.com,REGULAR,654 Maple Dr, Seattle, WA 98101 
