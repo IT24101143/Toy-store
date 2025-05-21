@@ -99,7 +99,7 @@ public class AdminService {
     }
 
     /**
-     * Toggle admin active status
+     * Toggle admin active status_Change active status
      */
     public void toggleAdminStatus(String username) throws IOException {
         Admin admin = getAdminByUsername(username);
@@ -136,7 +136,7 @@ public class AdminService {
      */
     public boolean isUsernameTaken(String username) throws IOException {
         if (username == null || username.trim().isEmpty()) {
-            return false;
+            return false; //Username(Not used yet)
         }
         return FileUtil.getAllAdmins().stream()
                 .anyMatch(admin -> admin.getUsername().equalsIgnoreCase(username));

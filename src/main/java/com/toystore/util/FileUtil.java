@@ -35,7 +35,7 @@ public class FileUtil {
 
         try (BufferedReader reader = new BufferedReader(new FileReader(ADMIN_FILE))) {
             String line;
-            while ((line = reader.readLine()) != null) {
+            while ((line = reader.readLine()) != null) { //Reads each line
                 String[] parts = line.split(",");
                 if (parts.length >= 6) {
                     Admin admin = new Admin(
