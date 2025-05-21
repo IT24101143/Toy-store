@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FileUtil {
-    private static final String REVIEWS_FILE = "E:/Personal Projects/Online Toy Store/Review Management/src/main/webapp/WEB-INF/reviews.txt";
+    private static final String REVIEWS_FILE = "C:/Users/ASUS/Desktop/Samini/Review Management/src/main/webapp/WEB-INF/reviews.txt";
     private static final String DELIMITER = "||";
 
     public static void saveReview(String reviewData) throws IOException {
